@@ -1,0 +1,3 @@
+/home/hong/Desktop/color picker/CMakeFiles/test.dir
+/home/hong/Desktop/color picker/CMakeFiles/edit_cache.dir
+/home/hong/Desktop/color picker/CMakeFiles/rebuild_cache.dir
