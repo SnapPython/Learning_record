@@ -1,2 +1,2 @@
-# OpenCV_learning_record
-The learning progress of OpenCV
+# Learning_record
+The learning progress of OpenCV/ros2
