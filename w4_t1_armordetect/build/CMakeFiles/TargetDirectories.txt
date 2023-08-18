@@ -1,0 +1,3 @@
+/home/hong/Desktop/w4/build/CMakeFiles/rec.dir
+/home/hong/Desktop/w4/build/CMakeFiles/edit_cache.dir
+/home/hong/Desktop/w4/build/CMakeFiles/rebuild_cache.dir
