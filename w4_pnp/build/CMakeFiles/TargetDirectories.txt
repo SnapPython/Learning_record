@@ -1,0 +1,3 @@
+/home/hong/Desktop/pnp/build/CMakeFiles/pnp.dir
+/home/hong/Desktop/pnp/build/CMakeFiles/edit_cache.dir
+/home/hong/Desktop/pnp/build/CMakeFiles/rebuild_cache.dir
